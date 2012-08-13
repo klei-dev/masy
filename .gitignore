@@ -1,0 +1,5 @@
+*.phar
+composer.lock
+vendor
+*.sublime-workspace
+*.sublime-project
