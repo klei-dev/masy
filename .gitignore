@@ -3,3 +3,4 @@ composer.lock
 vendor
 *.sublime-workspace
 *.sublime-project
+bin/phut*
